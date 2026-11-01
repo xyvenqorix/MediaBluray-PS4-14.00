@@ -1,4 +1,7 @@
 # MediaBluray-PS4-14.00
+<p align="center">
+  <img src="https://i.ibb.co/GQvj60xf/Gemini-Generated-Image-hge7gchge7gchge7.jpg" alt="PS4 BD-JB HEN 14.00" width="380">
+</p>
 # PlayStation HEN 14.00 (Beta)
 
 
