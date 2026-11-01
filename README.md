@@ -55,5 +55,5 @@ Los desarrolladores y colaboradores de este proyecto **no nos hacemos responsabl
 
 MediaBluray PS4 14.00
 
-Puedes encontrar los archivos compilados y listos para descargar en la sección de [Releases](../../releases).
+Puedes encontrar los archivos compilados y listos para descargar en la sección de https://github.com/xyvenqorix/MediaBluray-PS4-14.00/releases/tag/MediaBluray-PS4-14.00
 
